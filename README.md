@@ -1,1 +1,1 @@
-# shiori-tripto-app
+# shiori-tripto-webapp
